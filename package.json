@@ -1,0 +1,23 @@
+{
+  "name": "aluminibook",
+  "version": "1.0.0",
+  "description": "",
+  "main": "changeCalculator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MajorChe/aluminibook.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MajorChe/aluminibook/issues"
+  },
+  "homepage": "https://github.com/MajorChe/aluminibook#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
